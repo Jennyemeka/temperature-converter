@@ -45,4 +45,3 @@ We plan to enhance the app by adding:
 - A graphical user interface (GUI) for a more user-friendly experience.
 
 Your feedback and contributions are highly appreciated!
-
